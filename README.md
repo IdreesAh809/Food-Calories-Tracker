@@ -14,9 +14,9 @@ A web-based application that allows users to upload food images and receive an A
 - Provides professional insights to help users make informed dietary choices.
 
 ## Requirements
-```
+
 - Create a `.env` file with your `GOOGLE_API_KEY`.
-```
+
 ##  Install dependencies with:
 ```
 pip install -r requirements.txt
